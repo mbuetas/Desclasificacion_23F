@@ -1,0 +1,23 @@
+emisor,receptor,tipo,confianza,doc_id,fase,categoria,metodo,n_turnos
+Juan García Carrés,Antonio Tejero,llama_a,1.0,1694,2_noche_golpe,noche_23f,turno,55
+Antonio Tejero,Juan García Carrés,llama_a,1.0,1694,2_noche_golpe,noche_23f,turno,54
+Juan García Carrés,Antonio Tejero,llama_a,1.0,1699,2_noche_golpe,noche_23f,turno,58
+Antonio Tejero,Juan García Carrés,llama_a,1.0,1699,2_noche_golpe,noche_23f,turno,57
+Antonio Tejero,Congreso de los Diputados,llama_a,1.0,1701,2_noche_golpe,noche_23f,turno,1
+JUJEM,Congreso de los Diputados,informa_a,0.7,1701,2_noche_golpe,noche_23f,verbo,1
+Antonio Tejero,Adolfo Suárez,llama_a,1.0,1787,2_noche_golpe,noche_23f,turno,1
+Alfonso Armada,Antonio Tejero,llama_a,1.0,1787,2_noche_golpe,noche_23f,turno,1
+Adolfo Suárez,Juan Carlos I,informa_a,0.7,1787,2_noche_golpe,noche_23f,verbo,1
+Jaime Milans del Bosch,Alfonso Armada,llama_a,0.7,1787,2_noche_golpe,noche_23f,verbo,1
+Alfonso Armada,Casa Real / Zarzuela,llama_a,0.7,1787,2_noche_golpe,noche_23f,verbo,1
+Juan Carlos I,Alfonso Armada,llama_a,0.7,1787,2_noche_golpe,noche_23f,verbo,1
+Alfonso Armada,Antonio Tejero,informa_a,0.7,1787,2_noche_golpe,noche_23f,verbo,1
+Alfonso Armada,Juan Carlos I,informa_a,0.7,1787,2_noche_golpe,noche_23f,verbo,1
+Juan Carlos I,Alfonso Armada,llama_a,0.7,1791,4_instruccion,noche_23f,verbo,1
+Alfonso Armada,Congreso de los Diputados,ordena_a,0.7,1810,2_noche_golpe,noche_23f,verbo,1
+Alfonso Armada,Antonio Tejero,ordena_a,0.7,1817,5_juicio_oral,juicio_1982,verbo,1
+Alfonso Armada,Jaime Milans del Bosch,llama_a,0.7,1823,5_juicio_oral,juicio_1982,verbo,1
+Alfonso Armada,Jaime Milans del Bosch,se_reune_con,0.7,1823,5_juicio_oral,juicio_1982,verbo,1
+Antonio Tejero,Congreso de los Diputados,responde_a,0.7,1825,5_juicio_oral,juicio_1982,verbo,1
+Alfonso Armada,JUJEM,llama_a,0.7,1831,5_juicio_oral,juicio_1982,verbo,1
+José Luis Cortina,Alfonso Armada,se_reune_con,0.7,1842,5_juicio_oral,juicio_1982,verbo,1
