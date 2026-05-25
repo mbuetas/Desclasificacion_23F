@@ -1,5 +1,5 @@
 """
-PREPROCESAMIENTO MAESTRO 23F — Construcción del Dataset Perfecto
+PREPROCESAMIENTO 23F — Construcción del Dataset 
 ================================================================
 
 Este script transforma el CSV inicial (167 docs con OCR de Mistral) en un
